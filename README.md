@@ -1,4 +1,4 @@
-# AI-Enhanced-Paint-Application
+# SketchAi
 
 This repository contains a refactored and simplified demo version of my AI Paint Application.
 The full application cannot be shared publicly due to academic copyright and institutional policies.
